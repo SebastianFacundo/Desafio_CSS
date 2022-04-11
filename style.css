@@ -1,0 +1,42 @@
+header nav{
+    background-color: #A2A5A6;
+    height: 7vh;
+  
+
+    
+}
+
+header nav ul{
+    display: flex;
+    justify-content: end;
+    list-style: none;
+    
+   
+}
+
+header nav ul li{
+    margin: 15px 7px 0px;
+
+}
+
+.contenedor{
+ width: 50%;
+   margin: auto ;
+
+}
+
+
+.html{
+    margin-left: 50px;
+}
+
+
+.footer{
+height: 3vh;
+background-color:#A2A5A6; 
+text-align: center;
+}
+
+.footer span{
+    font-weight: bold;
+}
